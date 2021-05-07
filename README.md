@@ -1,3 +1,15 @@
+# Projet TP noté en DevOps - TAS 7/05 6:30
+
+J'ai pu faire tous les paliers jusqu'au 4ème que je n'ai pas eu le temps de finir en partie en raison de 40 minutes parties dans la création d'un dockerfile où je ne voyais pas mon erreur: j'écrivais `FROM ubuntu:18:04` au lieu de `FROM ubuntu.18:04`
+
+Lien github: https://github.com/MashiroW/TP_final_Devops
+Lien dockerHub: https://hub.docker.com/repository/docker/mashirow/tpdevopsdocker
+Lien App: https://tpfinaldevops2.herokuapp.com/
+Lien Heroku: https://dashboard.heroku.com/apps/tpfinaldevops2
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
