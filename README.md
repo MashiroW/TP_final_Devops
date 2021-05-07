@@ -4,7 +4,7 @@ J'ai pu faire tous les paliers jusqu'au 4ème que je n'ai pas eu le temps de fin
 
 Lien github: https://github.com/MashiroW/TP_final_Devops
 Lien dockerHub: https://hub.docker.com/repository/docker/mashirow/tpdevopsdocker
-Lien App: https://tpfinaldevops2.herokuapp.com/ .\
+Lien App: https://tpfinaldevops2.herokuapp.com/ 
 Lien Heroku: https://dashboard.heroku.com/apps/tpfinaldevops2
 
 
